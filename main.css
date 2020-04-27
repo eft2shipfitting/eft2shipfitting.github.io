@@ -47,7 +47,13 @@ textarea {
   height: 100% !important;
 }
 
-pre { 
+#shipfitting { 
   height: 100%;
+}
+
+#errors {
+  display: none;
+  background: pink;
+  padding: 10px 10px 5px 10px;
 }
 
